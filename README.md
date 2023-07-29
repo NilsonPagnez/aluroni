@@ -7,8 +7,7 @@ Site com cardápio de alimentos.
 | :sparkles: Nome        | **Aluroni**
 | :label: Tecnologias | React, Typescript, SCSS,  
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
-
+| :fire: Desafio     | https://cursos.alura.com.br/course/react-arquivos-estaticos
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](Aluroni.png#vitrinedev)
 
