@@ -6,11 +6,12 @@ Site com cardápio de alimentos.
 | -------------  | --- |
 | :sparkles: Nome        | **Aluroni**
 | :label: Tecnologias | React, Typescript, SCSS,  
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://nilsonpagnez.github.io/aluroni/
 | :fire: Desafio     | https://cursos.alura.com.br/course/react-arquivos-estaticos
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](Aluroni.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Galeria possuindo alimentos de um restaurante, pondendo filtra-los e ordena-los de acordo com sua preferência.
+
