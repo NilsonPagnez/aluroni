@@ -13,5 +13,5 @@ Site com cardápio de alimentos.
 
 ## Detalhes do projeto
 
-Galeria possuindo alimentos de um restaurante, pondendo filtra-los e ordena-los de acordo com sua preferência.
+Galeria possuindo alimentos de um restaurante, sendo possível filtra-los e ordena-los de acordo com sua preferência.
 
